@@ -1,6 +1,8 @@
 # log2
 
-## values
+It's insane but beautiful, at least for me.
+
+## Values
 
 - #1f1f1f (background/text)
 - #3f3f3f
@@ -8,7 +10,7 @@
 - #efefef
 - #bfbfbf (text/background)
 
-# calculations
+## Calculations
 
 We use index, because min value is 0 and max - 255.
 
