@@ -7,8 +7,8 @@ It's insane but beautiful, at least for me.
 - #1f1f1f (background/text)
 - #3f3f3f
 - #7f7f7f
-- #efefef
-- #bfbfbf (text/background)
+- #bfbfbf
+- #efefef (text/background)
 
 ## Calculations
 
