@@ -19,10 +19,12 @@ It's insane but beautiful, at least for me.
 ## Common
 
 - #7f7f7f
+- #7f3fef (red)
+- #7fef3f (green)
+- #ef7f3f (yellow)
 - #ef3f7f (magenta)
 - #3f7fef (blue)
-- #ef7f3f (yellow)
-- #7fef3f (green)
+- #3fef7f (cyan)
 
 ## Calculations
 
