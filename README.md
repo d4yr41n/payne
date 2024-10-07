@@ -35,4 +35,4 @@ We use index, because min value is 0 and max - 255.
 - 2 ^ 8 - 2 ^ 4 = ef ((256-16)th)
 - 2 ^ 8 - 2 ^ 5 = df ((256-32)th)
 
-![screenshot](scrennshot.png)
+![screenshot](screenshot.png)
