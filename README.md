@@ -16,10 +16,9 @@ It's insane but beautiful, at least for me.
 - #1f1f1f (text)
 - #dfdfdf (UI elements)
 
-## Common
+## Base
 
-- #7f7f7f
-- #ef7f3f (red)
+- #efefef (red)
 - #7fef3f (green)
 - #7f3fef (yellow)
 - #ef3f7f (magenta)
