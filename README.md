@@ -6,17 +6,15 @@
 
 ### Dark
 
-- #0f0f0f (base background)
-- #1f1f1f (text background)
-- #efefef (text foreground)
-- #3f3f3f (UI background)
+- #1f1f1f (background)
+- #efefef (foreground)
+- #3f3f3f (extra)
 
 ### Light
 
-- #efefef (base background)
-- #bfbfbf (text background)
-- #0f0f0f (text foreground)
-- #bfbfbf (UI background)
+- #efefef (background)
+- #1f1f1f (foreground)
+- #dfdfdf (extra)
 
 ## Colors
 
